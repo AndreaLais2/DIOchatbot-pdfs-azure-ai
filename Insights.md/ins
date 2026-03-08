@@ -1,0 +1,28 @@
+# Insights do Projeto
+
+## O que aprendi
+
+Aprendi que um chatbot baseado em documentos não "adivinha" as respostas, 
+ele deprende de um processo de recuperação de contexto antes de gerar uma resposta.
+O sistema analisa os PDFs enviados, cria representações vetoriais 
+do conteúdo e utiliza essas informações para gerar respostas contextualizadas.
+
+## Conceitos aprendidos
+
+- Grounding de respostas
+- Embeddings
+- Busca vetorial
+- Indexação de documentos
+- Integração entre IA e base de conhecimento
+
+## Dificuldades encontradas
+- Entender a diferença entre armazenamento, indexação e geração de resposta.
+- Organizar documentos adequados para teste.
+- Validar se o modelo estava respondido com base real nos arquivos.
+
+## Possibilidades futuras
+
+- Criar uma interface web para o chatbot
+- Permitir upload de novos arquivos
+- Implementar respostas com citações de fontes
+- Integrar com outras bases de dados
